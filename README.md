@@ -6,7 +6,7 @@ Don't ask why, just know it happened.
 Everything started out with a simple sketch
 
 > PH Gifs downloading 
-> sending a GET request to user profile, ex. https://www.pornhub.com/users/yajhal/gifs/favorites?page=1
+> sending a GET request to user profile, ex. https://www.pornhub.com/users/xxxxxx/gifs/favorites?page=1
 > will show a list of gifs, not all of the favorited gifs but a decent sized list (52 to be exact)
 
 > there is then a *div* titled moreData and inside are *li*'s with an id="gifXXXXXXXXXX" the number following gif is the gif ID
