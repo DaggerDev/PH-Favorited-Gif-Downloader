@@ -21,7 +21,7 @@ Everything started out with a simple sketch
 > using this you can use the get request and take all the given links 
 > the gif ID seems to always be followed by the letter a 
 
-> so use web scraper to get number after /gifs, the gif ID and then rebuild the link and store it in an array
+> so use web scraper to get number after /gifs, the gif ID, and then rebuild the link and store it in an array
 > then use array to download files onto computer via http request and filestream.
 
 📄 So with this sketch I figured out how webm's were stored, how the website you see interfaces with said storage, and how to get from front facing website to a full list of every single gif you've ever favorited on the platform at your finger tips.
