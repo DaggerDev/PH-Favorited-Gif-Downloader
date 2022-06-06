@@ -31,4 +31,6 @@ and then using a web scraping tool to make sense out of all the data.
 
 📄 There's some other things I would like to add to the tool like saving the webm's to a folder, and creating a log of the gif ID's so if someone moves the webm's out of the folder it won't see them missing and decide to redownload the same webm.
 
+📄 Currently you would have to download the index.js and the package file and then use it within a terminal by doing node index.js, I don't currently have this uploaded anywhere, but is definitely on my list of things to do in order to make it a bit more "official".
+
 📄 *This works as a CLI by the way...*
